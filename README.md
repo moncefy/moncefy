@@ -4,7 +4,7 @@
 
 <a href="https://github.com/moncefy">
     <h3 align="center">
-        <img src="https://imgur.com/a/IDV3fzd.png" width="280"><br>
+        <img src="https://imgur.com/a/IDV3fzd" width="280"><br>
         Full-stack Developer 
     </h3>
 </a>
