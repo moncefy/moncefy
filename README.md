@@ -52,5 +52,5 @@ I am a skilled full-stack web developer with expertise in building dynamic and u
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{moncefy}/count.svg" /></p> 
 <br></div>
 
-<h2 align="center">🦆</h2>
+<h2 align="center"></h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38761d&height=120&section=footer"/>
