@@ -36,6 +36,7 @@ I am a skilled full-stack web developer with expertise in building dynamic and u
 ### 📊 Stats
 
 ![moncefy's GitHub stats](https://github-readme-stats.vercel.app/api?username=moncefy&show_icons=true&theme=ocean_dark) <br>
+<br>
 ![moncefy's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moncefy&theme=ocean_dark) <br>
 <br>
 <!--
