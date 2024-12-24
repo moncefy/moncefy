@@ -9,7 +9,7 @@
         Full-stack Developer 
     </h3>
 </a>
-Hi! I am a skilled full-stack web developer with expertise in building dynamic and user-friendly applications. My technical skills include ES6 JavaScript, the React framework, and PHP for robust server-side development, along with experience in SQL and MySQL databases. I am also comfortable with version control using Git and have experience with Agile development methodologies. My goal is to deliver quality, scalable solutions that meet client needs
+- I am a skilled full-stack web developer with expertise in building dynamic and user-friendly applications. My technical skills include ES6 JavaScript, the React framework, and PHP for robust server-side development, along with experience in SQL and MySQL databases. I am also comfortable with version control using Git and have experience with Agile development methodologies. My goal is to deliver quality, scalable solutions that meet client needs
 
 ### 🧰 Languages and Tools
 
@@ -39,14 +39,13 @@ Hi! I am a skilled full-stack web developer with expertise in building dynamic a
 <br>
 
 <div align="center">
-  <a href="mailto:m.kameli.prs@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="mailto:m.kameli.prs@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/moncefy" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
