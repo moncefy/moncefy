@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38761d&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Moncef;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38761d&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Moncef;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <a href="https://github.com/moncefy">
     <h3 align="center">
@@ -31,7 +31,8 @@ Hi! I am a skilled full-stack web developer with expertise in building dynamic a
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=ocean_dark)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=moncefy&show_icons=true&theme=ocean_dark) <br>
+<br>
 
 <div align="center">
   <a href = "mailto:m.kameli.prs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -44,4 +45,4 @@ Hi! I am a skilled full-stack web developer with expertise in building dynamic a
 <br></div>
 
 <h2 align="center">🦆</h2>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38761d&height=120&section=footer"/>
