@@ -39,9 +39,14 @@ Hi! I am a skilled full-stack web developer with expertise in building dynamic a
 <br>
 
 <div align="center">
-  <a href = "mailto:m.kameli.prs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/moncefy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </a> </div>
+  <a href="mailto:m.kameli.prs@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/moncefy" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
