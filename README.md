@@ -38,11 +38,11 @@ I am a skilled full-stack web developer with expertise in building dynamic and u
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=moncefy&show_icons=true&theme=ocean_dark) <br>
 <br>
 
-<p align="center">
+<p align="left">
  <a href="https://github.com/moncefy">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moncefy&theme=aura"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moncefy&theme=ocean_dark"
     />
 </p>
 
@@ -55,7 +55,7 @@ I am a skilled full-stack web developer with expertise in building dynamic and u
   </a>
 </div>
 
-<div align="left">
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{moncefy}/count.svg" /></p> 
 <br></div>
