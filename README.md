@@ -41,14 +41,12 @@ Hi! I am a skilled full-stack web developer with expertise in building dynamic a
 <div align="center">
   <a href = "mailto:m.kameli.prs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/moncefy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </a>
+  </a> </div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{moncefy}/count.svg" /></p> 
 <br></div>
-
-[website]: https://fkcodes.com
 
 <h2 align="center">🦆</h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38761d&height=120&section=footer"/>
