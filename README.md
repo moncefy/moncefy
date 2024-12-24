@@ -38,6 +38,14 @@ I am a skilled full-stack web developer with expertise in building dynamic and u
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=moncefy&show_icons=true&theme=ocean_dark) <br>
 <br>
 
+<p align="center">
+ <a href="https://github.com/moncefy">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moncefy&theme=aura"
+    />
+</p>
+
 <div align="center">
   <a href="mailto:m.kameli.prs@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
