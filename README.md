@@ -9,7 +9,7 @@
         Full-stack Developer 
     </h3>
 </a>
-- I am a skilled full-stack web developer with expertise in building dynamic and user-friendly applications. My technical skills include ES6 JavaScript, the React framework, and PHP for robust server-side development, along with experience in SQL and MySQL databases. I am also comfortable with version control using Git and have experience with Agile development methodologies. My goal is to deliver quality, scalable solutions that meet client needs
+I am a skilled full-stack web developer with expertise in building dynamic and user-friendly applications. My technical skills include ES6 JavaScript, the React framework, and PHP for robust server-side development, along with experience in SQL and MySQL databases. I am also comfortable with version control using Git and have experience with Agile development methodologies. My goal is to deliver quality, scalable solutions that meet client needs
 
 ### 🧰 Languages and Tools
 
