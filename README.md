@@ -35,9 +35,10 @@ I am a skilled full-stack web developer with expertise in building dynamic and u
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=moncefy&show_icons=true&theme=ocean_dark) <br>
+![moncefy's GitHub stats](https://github-readme-stats.vercel.app/api?username=moncefy&show_icons=true&theme=ocean_dark) <br>
+![moncefy's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moncefy&theme=ocean_dark) <br>
 <br>
-
+<!--
 <p align="left">
  <a href="https://github.com/moncefy">
     <img align="center"
@@ -45,7 +46,7 @@ I am a skilled full-stack web developer with expertise in building dynamic and u
          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moncefy&theme=ocean_dark"
     />
 </p>
-
+-->
 <div align="center">
   <a href="mailto:m.kameli.prs@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
