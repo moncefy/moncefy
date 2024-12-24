@@ -55,7 +55,7 @@ I am a skilled full-stack web developer with expertise in building dynamic and u
   </a>
 </div>
 
-<div align="center">
+<div align="left">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{moncefy}/count.svg" /></p> 
 <br></div>
