@@ -32,23 +32,17 @@ I am a skilled full-stack web developer with expertise in building dynamic and u
 <br/>
 #
 
-## Profile stats 
-<br/>
-![moncefy's Stats](https://github-readme-stats.vercel.app/api?username=moncefy&theme=gotham&show_icons=true&hide_border=true&count_private=true) <br/>
+## Profile Stats
 
-![moncefy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moncefy&theme=gotham&show_icons=true&hide_border=true&layout=compact) <br/>
+<div align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=moncefy&theme=gotham&show_icons=true&hide_border=true&count_private=true"/>
+  
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moncefy&theme=gotham&show_icons=true&hide_border=true&layout=compact"/>
+  
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=moncefy&theme=gruvbox&no-bg=true&no-frame=false&column=4"/>
+</div>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=moncefy&theme=gruvbox&no-bg=true&no-frame=false&column=4)
-<br/>
-<!--
-<p align="left">
- <a href="https://github.com/moncefy">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moncefy&theme=ocean_dark"
-    />
-</p>
--->
+
 <div align="center">
   <a href="mailto:m.kameli.prs@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
