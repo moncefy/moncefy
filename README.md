@@ -29,7 +29,7 @@ I am a skilled full-stack web developer with expertise in building dynamic and u
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <br/>
-#
+
 
 ## Profile Stats
 
