@@ -41,6 +41,7 @@ I am a skilled full-stack web developer with expertise in building dynamic and u
   
   <img width="50%" src="https://github-profile-trophy.vercel.app/?username=moncefy&theme=gruvbox&no-bg=true&no-frame=false&column=4"/>
 </div>
+<br/>
 
 
 <div align="center">
