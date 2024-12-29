@@ -33,10 +33,10 @@ I am a skilled full-stack web developer with expertise in building dynamic and u
 
 
 ## Profile Stats
-<br>
-[![moncefy's GitHub stats](https://github-readme-stats.vercel.app/api?username=moncefy)](https://github.com/moncefy/github-readme-stats) <br>
+<br/>
+![moncefy's Stats](https://github-readme-stats.vercel.app/api?username=moncefy&theme=gotham&show_icons=true&hide_border=true&count_private=true) <br/>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=moncefy&theme=gruvbox_duo&fire=green&ring=darkgreen&currStreakNum=lightgreen&currStreakLabel=green) <br>
+![moncefy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moncefy&theme=gotham&show_icons=true&hide_border=true&layout=compact) <br/>
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=moncefy&theme=gruvbox&no-bg=true&no-frame=false&column=4)
 <br>
