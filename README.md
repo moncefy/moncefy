@@ -35,11 +35,11 @@ I am a skilled full-stack web developer with expertise in building dynamic and u
 ## Profile Stats
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=moncefy&theme=gotham&show_icons=true&hide_border=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=moncefy&theme=gotham&show_icons=true&hide_border=true&count_private=true"/>
   
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moncefy&theme=gotham&show_icons=true&hide_border=true&layout=compact"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moncefy&theme=gotham&show_icons=true&hide_border=true&layout=compact"/>
   
-  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=moncefy&theme=gruvbox&no-bg=true&no-frame=false&column=4"/>
+  <img width="50%" src="https://github-profile-trophy.vercel.app/?username=moncefy&theme=gruvbox&no-bg=true&no-frame=false&column=4"/>
 </div>
 
 
