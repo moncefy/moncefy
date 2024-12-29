@@ -30,17 +30,16 @@ I am a skilled full-stack web developer with expertise in building dynamic and u
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <br/>
+#
 
-
-## Profile Stats
+## Profile stats 
 <br/>
 ![moncefy's Stats](https://github-readme-stats.vercel.app/api?username=moncefy&theme=gotham&show_icons=true&hide_border=true&count_private=true) <br/>
 
 ![moncefy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moncefy&theme=gotham&show_icons=true&hide_border=true&layout=compact) <br/>
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=moncefy&theme=gruvbox&no-bg=true&no-frame=false&column=4)
-<br>
-<br>
+<br/>
 <!--
 <p align="left">
  <a href="https://github.com/moncefy">
