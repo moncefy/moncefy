@@ -37,7 +37,6 @@ I am a skilled full-stack web developer with expertise in building dynamic and u
 - m.kameli.prs@gmail.com
 - Discord : moncef89
   
-<br/>
 
 ## Profile Stats
 
