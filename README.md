@@ -43,13 +43,13 @@ I am a skilled full-stack web developer with expertise in building dynamic and u
 <br/>
 
 
-<div align="center">
+
   ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/moncefy/)
 - m.kameli.prs@gmail.com
 - Discord : moncef89
-</div>
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
