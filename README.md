@@ -30,6 +30,13 @@ I am a skilled full-stack web developer with expertise in building dynamic and u
 
 <br/>
 
+  ## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/moncefy/)
+- m.kameli.prs@gmail.com
+- Discord : moncef89
+  
+
 
 ## Profile Stats
 
@@ -42,13 +49,6 @@ I am a skilled full-stack web developer with expertise in building dynamic and u
 </div>
 <br/>
 
-
-
-  ## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/moncefy/)
-- m.kameli.prs@gmail.com
-- Discord : moncef89
 
 
 <div align="center">
