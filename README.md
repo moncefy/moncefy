@@ -20,11 +20,5 @@
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=moncefy&theme=gruvbox&no-frame=true&column=4" />
-
-</div>
-
 <h2 align="center"></h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=417c19&height=120&section=footer"/>
