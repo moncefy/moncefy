@@ -9,11 +9,12 @@
 <br/>
 <br/>
 
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=moncefy&show_icons=true&theme=gotham&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=moncefy&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moncefy&layout=compact&theme=gotham&hide_border=true" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=moncefy&layout=compact&theme=gotham&hide_border=true" />
 
 </div>
 
@@ -24,17 +25,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=moncefy&theme=gruvbox&no-frame=true&column=4" />
 
 </div>
-
-<br/>
-
-<div align="center">
-
-###  Visitors
-
-<img src="https://profile-counter.glitch.me/moncefy/count.svg" />
-
-</div>
-
 
 <h2 align="center"></h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=417c19&height=120&section=footer"/>
