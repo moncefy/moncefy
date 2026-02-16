@@ -8,23 +8,33 @@
         <br>
 <br/>
 <br/>
-## Profile Stats
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=moncefy&theme=gotham&show_icons=true&hide_border=true&count_private=true"/>
-  
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moncefy&theme=gotham&show_icons=true&hide_border=true&layout=compact"/>
-  
-  <img width="50%" src="https://github-profile-trophy.vercel.app/?username=moncefy&theme=gruvbox&no-bg=true&no-frame=false&column=4"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=moncefy&show_icons=true&theme=gotham&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moncefy&layout=compact&theme=gotham&hide_border=true" />
+
 </div>
+
 <br/>
 
+<div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=moncefy&theme=gruvbox&no-frame=true&column=4" />
+
+</div>
+
+<br/>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{moncefy}/count.svg" /></p> 
-<br></div>
+
+###  Visitors
+
+<img src="https://profile-counter.glitch.me/moncefy/count.svg" />
+
+</div>
+
 
 <h2 align="center"></h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=417c19&height=120&section=footer"/>
