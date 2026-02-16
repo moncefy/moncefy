@@ -6,8 +6,6 @@
     <h3 align="center">
         <img src="https://i.imgur.com/mjWlRSl.png" width="280"><br>
         <br>
-        
-    </h3>
 <br/>
 <br/>
 ## Profile Stats
